@@ -111,6 +111,6 @@ rrrocknrn0113r
 >>>
 ```
 
-So the flag is `picoCTF{rrrocknrn0113r}`.
+So whats your flag?
 
 
