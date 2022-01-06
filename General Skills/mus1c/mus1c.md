@@ -120,3 +120,4 @@ rrrocknrn0113r
 ```
 
 So whats your flag?
+>picoCTF{rrrocknrn0113r}
